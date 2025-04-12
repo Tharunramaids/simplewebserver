@@ -36,9 +36,23 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1> WELCOME TO THE SERVER </h1>
+</head>
+<body>
+    <h3> This webserver was created by Tharun</h3>
+</body>
+</html>
+```
 
 ## OUTPUT:
+
+![Screenshot 2025-04-12 102317](https://github.com/user-attachments/assets/ec07b3b5-6065-4f41-b513-5ba569349f14)
+
+![Screenshot 2025-04-12 102344](https://github.com/user-attachments/assets/83f90827-e845-4b62-97c9-eed9638fc9b2)
 
 
 ## RESULT:
